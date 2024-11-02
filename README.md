@@ -28,13 +28,13 @@ This project applies machine learning models to predict credit default risks, of
 - **XGBoost** demonstrated the highest performance with an AUC of 0.94, balancing recall and precision effectively.
 - Feature importance highlighted **loan grade** and **home ownership** as critical risk indicators.
 
-## 5. Figures
+### 5. Figures
 - **Figure 1:** ROC Curve Comparison for Model Performance
 ![ROC Curve Comparison for Model Performance](https://github.com/LinZhou606/Credit-Default-Prediction-Using-Machine-Learning-Models/blob/main/ROC%20Curve%20Comparison%20for%20Model%20Performance.png)
 
 - **Figure 2:** Confusion Matrix for XGBoost Model
 ![Confusion Matrix for XGBoost Model](https://github.com/LinZhou606/Credit-Default-Prediction-Using-Machine-Learning-Models/blob/main/Confusion%20Matrix%20for%20XGBoost%20Model.png)
 
-## 6. Key Technologies Used
+### 6. Key Technologies Used
 - **Python Libraries:** scikit-learn, pandas, NumPy
 - **Tools:** Jupyter Notebook, Colab
